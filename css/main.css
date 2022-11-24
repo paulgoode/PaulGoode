@@ -18,6 +18,9 @@ h1.medium-text-center {
 /* Layout Elements */
 
 body.body-2 {
+  -moz-box-sizing: content-box;
+       box-sizing: content-box;
+  min-height: 50vh;
   background-color: #000;
 }
 
