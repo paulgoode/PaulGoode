@@ -17,10 +17,18 @@ h1.medium-text-center {
 
 /* Layout Elements */
 
-body.body-1 {
+body.body-2 {
   background-color: #000;
 }
 
+.container.container-1 {
+  margin-top: 100px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
 div.responsive-picture.text-center {
+  float: none;
+  clear: both;
   margin: 24px auto;
 }
