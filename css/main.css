@@ -20,6 +20,7 @@ h1.medium-text-center {
 body.body-2 {
   -moz-box-sizing: content-box;
        box-sizing: content-box;
+  text-align: center;
   min-height: 50vh;
   background-color: #000;
 }
@@ -28,10 +29,12 @@ body.body-2 {
   margin-top: 100px;
   margin-right: auto;
   margin-left: auto;
+  text-align: center;
 }
 
 div.responsive-picture.text-center {
   float: none;
   clear: both;
+  text-align: center;
   margin: 24px auto;
 }
