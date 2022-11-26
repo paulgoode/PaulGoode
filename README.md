@@ -1,4 +1,5 @@
-# Paul Goode
+# About
 Website: [paulgoode.com](http://paulgoode.com)
 
-## About
+## To Do
+Write more later.
