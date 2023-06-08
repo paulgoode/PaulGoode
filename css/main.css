@@ -3,16 +3,26 @@
 h1.h1 {
   color: #fff;
   text-align: center;
-  font-size: 24px;
+  font-size: 16px;
   font-family: 'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;
 
   -webkit-text-stroke-color: #fff;
 }
 
-h1.medium-text-center {
+h2.medium-text-center {
   color: #fff;
   font-size: 16px;
+  font-weight: 500;
   font-family: 'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;
+}
+
+p {
+  color: #fff;
+  text-align: center;
+  font-size: 16px;
+  font-family: 'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;
+
+  -webkit-text-stroke-color: #fff;
 }
 
 /* Layout Elements */
