@@ -1,8 +1,6 @@
 /* Text Elements */
 
 h1.h1 {
-  margin-right: auto;
-  margin-left: auto;
   color: #fff;
   text-align: center;
   font-size: 24px;
@@ -12,10 +10,7 @@ h1.h1 {
 }
 
 h1.medium-text-center {
-  margin-right: auto;
-  margin-left: auto;
   color: #fff;
-  text-align: center;
   font-size: 16px;
   font-family: 'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;
 }
@@ -30,12 +25,13 @@ body.body-2 {
 }
 
 .container.container-1 {
-  padding-top: 40px;
-  padding-bottom: 40px;
-}
-
-div.responsive-picture.picture-1 {
+  margin-top: 100px;
   margin-right: auto;
   margin-left: auto;
-  max-width: 320px;
+}
+
+div.responsive-picture.text-center {
+  float: none;
+  clear: both;
+  margin: 24px auto;
 }
